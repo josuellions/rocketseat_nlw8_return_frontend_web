@@ -6,7 +6,7 @@
 
 ##### Instrutor Mobile: ReactNative: Rodrigo Gonçalves
 
-- Projeto frontend web com React, Server com NodeJs e Mobile com ReactNative, para capturar screenshot da view, formulario texto feedback e envio para API do server.
+- Projeto frontend web com React, Server com NodeJs e Mobile com ReactNative, para capturar screenshot da view, formulario texto feedback e envio para API do server, dispara email de notificação ao receber novo feedback enviando o texto e anexo o print (screenshot).
 
 ##### Download do projeto
 
